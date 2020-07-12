@@ -3,11 +3,6 @@
 <style>
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:600);
 
-body { 
-  font-family: 'Open Sans', 'sans-serif';
-  color: black;
-  <!--overflow: hidden;-->
-}
 
 .item-1, 
 .item-2, 
