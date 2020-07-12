@@ -6,7 +6,6 @@
 body { 
   font-family: 'Open Sans', 'sans-serif';
   color: black;
-  background: #222;
   <!--overflow: hidden;-->
 }
 
