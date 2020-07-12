@@ -14,7 +14,7 @@
 </head>
 <body>
 
-<h1 class="ml2">Sunny mornings</h1>
+<h1 class="ml2">Η Σελίδα βρίσκεται υπό κατασκευή...</h1>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
 
