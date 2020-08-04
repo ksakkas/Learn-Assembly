@@ -16,6 +16,15 @@
 <ul>
 <li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/declaration.s">Δήλωση μεταβλητών</a></li> 
 <li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/add.s">Πρόσθεση (δύο μεταβλητές)</a></li> 
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/add2.s">Πρόσθεση (περισσότερες μεταβλητές)</a></li> 
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/substract.s">Αφαίρεση (δύο μεταβλητές)</a></li> 
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/substract2.s">Αφαίρεση (περισσότερες μεταβλητές)</a></li> 
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/multiplication.s">Πολλαπλασιασμός</a></li> 
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/div.s">Διαίρεση</a></li> 
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/acts.s">Συνδιασμός πράξεων</a></li> 
+
+
+
 
 </ul>
 
