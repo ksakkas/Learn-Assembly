@@ -14,7 +14,7 @@
 
 <h2>Εισαγωγή στην Assembly</h2>
 <ul>
-<li><a href="./Code/decleration.s"> Δήλωση μεταβλητών</a></li> 
+<li><a href="./Code/declaration.s"> Δήλωση μεταβλητών</a></li> 
 </ul>
 
 </body>
