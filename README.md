@@ -14,7 +14,9 @@
 
 <h2>Εισαγωγή στην Assembly</h2>
 <ul>
-<li><a href="./Code/declaration.s"> Δήλωση μεταβλητών</a></li> 
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/declaration.s">Δήλωση μεταβλητών</a></li> 
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/add.s">Πρόσθεση (δύο μεταβλητές)</a></li> 
+
 </ul>
 
 </body>
