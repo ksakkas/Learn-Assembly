@@ -21,12 +21,15 @@
 <li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/substract2.s">Αφαίρεση (περισσότερες μεταβλητές)</a></li> 
 <li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/multiplication.s">Πολλαπλασιασμός</a></li> 
 <li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/div.s">Διαίρεση</a></li> 
-<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/acts.s">Συνδιασμός πράξεων</a></li> 
-
-
-
-
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/acts.s">Συνδυασμός πράξεων</a></li> 
 </ul>
 
+<h2>Assembly</h2>
+<ul>
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/addr.s">Πράξεις με $</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/lw.s">Φόρτωση δεδομένων</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/lwe.s">Φόρτωση δεδομένων με offset</a></li>
+
+</ul>
 </body>
 </html>
