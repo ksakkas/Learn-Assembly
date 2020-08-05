@@ -69,5 +69,22 @@
 <li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/bhi.s">Η εντολή BHI (Branch if HIgher)</a></li>
 </ul>
 
+<h2>MIPS & Assembly</h2>
+<ul>
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/sll.s">Αριστερή λογική ολίσθηση</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/srl.s">Δεξιά λογική ολίσθηση</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/and.s">Λογικό AND</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/or.s">Λογικό OR</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/nor.s">Λογικό NOR - NOT</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/beq.s">∆ιακλαδώσεις υπό συνθήκη - BRQ (διακλάδωση σε περίπτωση ισότητας)</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/bne.s">∆ιακλαδώσεις υπό συνθήκη - BNE (διακλάδωση σε περίπτωση µη  ισότητας)</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/if_then_else.s">If - then - else</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/while.s">While</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/slt.s">Εντολή set-on-less-than
+</a></li>
+
+
+</ul>
+
 </body>
 </html>
