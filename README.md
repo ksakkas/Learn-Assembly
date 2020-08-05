@@ -29,6 +29,20 @@
 <li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/addr.s">Πράξεις με $</a></li>
 <li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/lw.s">Φόρτωση δεδομένων</a></li>
 <li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/lwe.s">Φόρτωση δεδομένων με offset</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/lwe.s">Αποθήκευση δεδομένων</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/lsw.s">Φόρτωση και Αποθήκευση δεδομένων</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/const.s">Σταθερές μεταβλητές</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/const.s">Άμεση πρόσθεση</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/const.s">Η σταθερά μηδέν (zero)</a></li>
+</ul>
+
+<h2>Εντολές στην Assembly</h2>
+<ul>
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/intdr.s">Σύμβολα</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/mov.s">Η εντολή MOV (move)</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/jump.s">Η εντολή JMP (jump)</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/test.html">Η εντολή JMP (jump)</a></li>
+
 
 </ul>
 </body>
