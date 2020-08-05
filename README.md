@@ -1,8 +1,6 @@
 <html>
 <head>
-<style>
 
-</style>
 </head>
 <body>
 <h1> Learn Assembly</h1>
@@ -41,9 +39,20 @@
 <li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/intdr.s">Σύμβολα</a></li>
 <li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/mov.s">Η εντολή MOV (move)</a></li>
 <li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/jump.s">Η εντολή JMP (jump)</a></li>
-<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/test.html">Η εντολή JMP (jump)</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/fcb.s">Η εντολή FCB (Field Constant Byte)</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/fdb.s">Η εντολή FDB (Field Double Byte)</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/equ.s">Η εντολή EQU (EQUate)
+</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/dbnz.s">Η εντολή DBNZ (Decrement & Branch if Not Zero)</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/dbnza.s">Η εντολή DBNZA (Decrement & Branch if Not Zero - Accumulator)</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/dbnzx.s">Η εντολή DBNZX (Decrement & Branch if Not  Zero - IndeX)</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/dec.s">Οι εντολές DEC, DECA, DECX
+</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/inc.s">Οι εντολές INC, INCA, INCX
+</a></li>
 
 
 </ul>
+
 </body>
 </html>
