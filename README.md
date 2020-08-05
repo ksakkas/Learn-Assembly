@@ -50,8 +50,23 @@
 </a></li>
 <li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/inc.s">Οι εντολές INC, INCA, INCX
 </a></li>
-
-
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/bne_beq.s">Οι εντολές BNE (Branch if Not Equal)  BEQ (Branch if Equal)</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/jsr_rts.s">Οι εντολές JSR (Jump to SubRoutine)  RTS (ReTurn from Subroutine)</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/brset_brclear.s">Οι εντολές BRSET (BRanch if n bit SET)  BRSET (BRanch if n bit CLeaR)</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/eor.s">Η εντολή EOR (Exclusive OR) </a></li>
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/lda.s">Η εντολή LDA (LoaD Accumulator)</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/sta.s">Η εντολή SΤA (STore Accumulator)</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/ldx.s">Η εντολή LDX (LoaD IndeX)</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/stx.s">Η εντολή SΤX (STore IndeX)</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/clrx.s">Η εντολή CLRX (CLeaR IndeX)</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/clra.s">Η εντολή CLRA (CLeaR Accumulator)</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/clr.s">Η εντολή CLR (CLeaR register)</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/cmpx.s">Η εντολή CMPX (CoMPare indeX)</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/cmpa.s">Η εντολή CMPΑ (CoMPare Αccumulator)</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/bls.s">Η εντολή BLS (Branch if Lower or Same)</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/blo.s">Η εντολή BLO (Branch if LOwer)</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/bhs.s">Η εντολή BHS (Branch if Higher or Same)</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/bhi.s">Η εντολή BHI (Branch if HIgher)</a></li>
 </ul>
 
 </body>
