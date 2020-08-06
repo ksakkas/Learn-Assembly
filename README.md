@@ -82,7 +82,10 @@
 <li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/while.s">While</a></li>
 <li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/slt.s">Εντολή set-on-less-than
 </a></li>
-
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/slt_sltu.s">Προσηµασµένοι & Απρόσηµοι</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/mps.s">∆ιαδικασίες στο MIPS</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/jal_jr.s">Κλήση & επιστροφή</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/leaf.s">∆ιαδικασία-φύλλο (leaf)</a></li>
 
 </ul>
 
