@@ -8,8 +8,7 @@
 <p>Αρχιτεκτονική Υπολογιστών Εργαστήριο - 3ο Εξάμηνο </p>
 <p> Κωνσταντίνος Σακκάς</p>
 <p>Copyright © 2020 Κωνσταντίνος Σακκάς. Με την επιφύλαξη παντός δικαιώματος</p>
-<h1></h1>
-
+<hr>
 <h2>Εισαγωγή στην Assembly</h2>
 <ul>
 <li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/declaration.s">Δήλωση μεταβλητών</a></li> 
