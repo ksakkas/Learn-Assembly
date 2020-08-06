@@ -1,3 +1,5 @@
+;∆ιαδικασίες στο MIPS
+
 ;Procedure call: εντολή άλµατος και σύνδεσης
 ;(jump-and-link instruction)
 ;jal ∆ιεύθυνση ∆ιαδικασίας
