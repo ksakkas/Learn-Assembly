@@ -26,11 +26,11 @@
 <li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/addr.s">Πράξεις με $</a></li>
 <li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/lw.s">Φόρτωση δεδομένων</a></li>
 <li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/lwe.s">Φόρτωση δεδομένων με offset</a></li>
-<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/lwe.s">Αποθήκευση δεδομένων</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/sw.s">Αποθήκευση δεδομένων</a></li>
 <li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/lsw.s">Φόρτωση και Αποθήκευση δεδομένων</a></li>
 <li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/const.s">Σταθερές μεταβλητές</a></li>
-<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/const.s">Άμεση πρόσθεση</a></li>
-<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/const.s">Η σταθερά μηδέν (zero)</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/addi.s">Άμεση πρόσθεση</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/zero.s">Η σταθερά μηδέν (zero)</a></li> 
 </ul>
 
 <h2>Εντολές στην Assembly</h2>
