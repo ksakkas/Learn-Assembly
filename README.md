@@ -9,7 +9,7 @@
 <p> Κωνσταντίνος Σακκάς</p>
 <p>Copyright © 2020 Κωνσταντίνος Σακκάς. Με την επιφύλαξη παντός δικαιώματος</p>
 <hr>
-<h2>2η Εργασία</h2>
+<h2>2η Εργασία Εξαμήνου</h2>
 <ul>
 <li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/addi.s">Άμεση πρόσθεση</a></li> 
 <li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/addin.asm">Άμεση πρόσθεση δεκαδικού αριθμού στην ίδια μεταβλητή</a></li> 
