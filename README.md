@@ -9,6 +9,17 @@
 <p> Κωνσταντίνος Σακκάς</p>
 <p>Copyright © 2020 Κωνσταντίνος Σακκάς. Με την επιφύλαξη παντός δικαιώματος</p>
 <hr>
+<h2>2η Εργασία</h2>
+<ul>
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/addi.s">Άμεση πρόσθεση</a></li> 
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/addin.asm">Άμεση πρόσθεση δεκαδικού αριθμού στην ίδια μεταβλητή</a></li> 
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/addin0.asm">Άμεση αρχικοποίηση αριθμού με 0</a></li> 
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/addin2.asm">Άμεση πρόσθεση δεκαδικού αριθμού σε διαφορετική μεταβλητή</a></li> 
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/zero.asm">Άμεση πρόσθεση του 0 σε μεταβλητές</a></li> 
+
+</ul>
+
+
 <h2>Εισαγωγή στην Assembly</h2>
 <ul>
 <li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/declaration.s">Δήλωση μεταβλητών</a></li> 
@@ -33,7 +44,7 @@
 <li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/zero.s">Η σταθερά μηδέν (zero)</a></li> 
 </ul>
 
-<h2>Εντολές στην Assembly</h2>
+<h2>Εντολές στην Assembly (εκτός ύλης)</h2>
 <ul>
 <li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/intdr.s">Σύμβολα</a></li>
 <li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/mov.s">Η εντολή MOV (move)</a></li>
