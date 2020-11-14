@@ -15,7 +15,7 @@
 <li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/addin.asm">Άμεση πρόσθεση δεκαδικού αριθμού στην ίδια μεταβλητή</a></li> 
 <li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/addin0.asm">Άμεση αρχικοποίηση αριθμού με 0</a></li> 
 <li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/addin2.asm">Άμεση πρόσθεση δεκαδικού αριθμού σε διαφορετική μεταβλητή</a></li> 
-<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/zero.asm">Άμεση πρόσθεση του 0 σε μεταβλητές</a></li> 
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/zero.s">Άμεση πρόσθεση του 0 σε μεταβλητές</a></li> 
 
 </ul>
 
