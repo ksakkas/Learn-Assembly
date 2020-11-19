@@ -91,6 +91,8 @@
 <li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/if_then_else.s">If - then - else</a></li>
 <li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/if_s.asm">Παράδειγμα με IF</a></li>
 <li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/while.s">While</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/while_s.asm">Παράδειγμα με While</a></li>
+
 <li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/slt.s">Εντολή set-on-less-than
 </a></li>
 <li><a href="https://github.com/ksakkas/Learn-Assembly/blob/master/Code/for.asm">Η For
