@@ -12,10 +12,6 @@
       
       .data
 		msg1: .asciiz "Input a number: "
-		msg2: .asciiz "your number is: 2*"
-		msg3: .asciiz "your number is: 2* "
-		el: .asciiz "\n"
-		msg3s: .asciiz "+1"
 		value: .word 0
 		
 	.text						# Μέρος text προγράμματος
